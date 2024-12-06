@@ -225,7 +225,7 @@
                                     style="display: none;">
                                     @csrf
                                 </form>
-                                <a class="dropdown-item" href="#"
+                                <a class="dropdown-item" href="{{route('account.logout')}}"
                                     onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
                                     Logout
                                 </a>
