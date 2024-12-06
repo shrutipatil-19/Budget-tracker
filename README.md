@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Budget-tracker
+The Budget Tracker is a web-based application built using Laravel, designed to help users manage their finances effectively. It enables users to set budgets, track expenses, and visualize their financial data in a simple and intuitive interface. Secure login and registration system to ensure data privacy.
+>>>>>>> 633c799ce7021d10e6f5b9919eded4b4c9a44d42
